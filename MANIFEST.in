@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include venturitech *.css
+recursive-include venturitech *.csv
+recursive-include venturitech *.html
+recursive-include venturitech *.ico
+recursive-include venturitech *.js
+recursive-include venturitech *.json
+recursive-include venturitech *.md
+recursive-include venturitech *.png
+recursive-include venturitech *.py
+recursive-include venturitech *.svg
+recursive-include venturitech *.txt
+recursive-exclude venturitech *.pyc
