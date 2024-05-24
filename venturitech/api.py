@@ -1,5 +1,5 @@
 import json
-
+import requests
 
 
 def delete_customer():
